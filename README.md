@@ -9,4 +9,4 @@ At the end of the game, the program will write the score to file. The score is t
 The game uses the [https://docs.microsoft.com/en-us/cpp/mfc/mfc-desktop-applications?view=vs-2019](Microsoft Foundation Classes (MFC)) to handle graphics. This library needs to be installed, if you plan to run the code via command line (it is installed by default if you installed Visual Studio, however).
 
 The commands to play are straightforward, and an example of the screen is shown below:
-![Main Game Demo Screen](https://raw.githubusercontent.com/ahadrauf/magician_wars/master/figures/home_page_demo.png)
+![Main Game Demo Screen](https://raw.githubusercontent.com/ahadrauf/magician_wars/master/figures/home_screen_demo.png)
